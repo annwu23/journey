@@ -36,7 +36,6 @@ pre code {
 .navbar-nav .nav-item .nav-link.active {
 	border: solid 1px #fff;
     border-radius: 3px;
-    font-family: "Helvetica" !important;
 }
 
 /* a, a:link, a:visited, a:active {
